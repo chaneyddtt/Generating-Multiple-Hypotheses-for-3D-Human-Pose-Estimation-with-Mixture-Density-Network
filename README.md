@@ -15,6 +15,17 @@ We use a two-stage approach to generate multiple 3D pose hypotheses. The 2D join
 
 For more details, please refer to our paper on [arXiv](https://arxiv.org/pdf/1904.05547.pdf).
 
+**Bibtex:**
+```
+@InProceedings{Li_2019_CVPR,
+author = {Li, Chen and Hee Lee, Gim},
+title = {Generating Multiple Hypotheses for 3D Human Pose Estimation With Mixture Density Network},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
+}
+```
+
 **Dependencies**
 1. h5py--to read data
 2. Tensorflow 1.8 or later

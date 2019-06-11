@@ -10,6 +10,7 @@ We argue that 3D human pose estimation from a monocular/2D-joint input is an ive
 ![Problem illustration](problem_illustration.png)
 
 We use a two-stage approach to generate multiple 3D pose hypotheses. The 2D joints are firstly detected from the input images in the first stage, followed by a feature extractor and hypotheses generator to generate 3D pose hypotheses.
+
 ![Network architecture](Network.png)
 
 For more details, please refer to our paper on [arXiv](https://arxiv.org/pdf/1904.05547.pdf).

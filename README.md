@@ -7,7 +7,7 @@ This is the source code for the paper
 Chen Li, Gim Hee Lee. Generating Multiple Hypotheses for 3D Human Pose Estimation with Mixture Density Network. In CVPR2019. 
 
 We argue that 3D human pose estimation from a monocular/2D-joint input is an iverse problem where multiple solutions can exist.
-![Problem illustration](Problem_illustration.png)
+![Problem illustration](problem_illustration.png)
 
 We use a two-stage approach to generate multiple 3D pose hypotheses. The 2D joints are firstly detected from the input images in the first stage, followed by a feature extractor and hypotheses generator to generate 3D pose hypotheses.
 ![Network architecture](Network.png)

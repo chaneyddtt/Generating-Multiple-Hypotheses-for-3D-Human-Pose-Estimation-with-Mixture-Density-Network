@@ -25,6 +25,8 @@ Get this code:
 ```
 git clone https://github.com/chaneyddtt/Generating-Multiple-Hypotheses-for-3D-Human-Pose-Estimation-with-Mixture-Density-Network.git 
 ```
+Download the 2D detections of [Human3.6 dataset](https://github.com/una-dinosauria/3d-pose-baseline).
+
 Run:
 ```
 python predict_3dpose_mdm.py --train_dir <specify your training folder>
@@ -36,6 +38,8 @@ python predict_3dpose_mdm.py --miss_num <specify how many joints are missing>
 You can also change other arguments in the predict_3dpose_mdm.py in a similar way.
 
  **Test**
+
+Down our [pretrained model](https://drive.google.com/open?id=1ndJyuVL-7fbhw-G654m5U8tHogcQIftT)
  
 To test our pretrained model, run:
 ```

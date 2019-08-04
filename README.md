@@ -18,7 +18,7 @@ For more details, please refer to our paper on [arXiv](https://arxiv.org/pdf/190
 **Bibtex:**
 ```
 @InProceedings{Li_2019_CVPR,
-author = {Li, Chen and Hee Lee, Gim},
+author = {Li, Chen and Lee, Gim Hee},
 title = {Generating Multiple Hypotheses for 3D Human Pose Estimation With Mixture Density Network},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
 month = {June},

@@ -28,7 +28,7 @@ year = {2019}
 
 **Dependencies**
 1. h5py--to read data
-2. Tensorflow 1.8 or later
+2. Tensorflow 1.8
 
 **Train**
 
